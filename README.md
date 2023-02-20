@@ -3,8 +3,8 @@
 <p>✔ Atualmente nãoe stou trabalhando estou relembrando as coisas da faculdade</p>
 <p>👀 Atualmente estou estudando httml e css</p>
 <div>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=maxwellmoura&show_icons=true&theme=dark">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwellmoura&layout=compact&langs_count=16&theme=dark">
+<img height="100cm" src="https://github-readme-stats.vercel.app/api?username=maxwellmoura&show_icons=true&theme=dark">
+<img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwellmoura&layout=compact&langs_count=16&theme=dark">
 </div>
 ##
 <div style="display: inline_block"><br>
