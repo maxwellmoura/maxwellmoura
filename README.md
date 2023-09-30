@@ -1,7 +1,7 @@
-<span>Olá Sou Maxwell Cristino de Moura</span>
+<span>Olá Sou Maxwell Christino de Moura</span>
 <p>Aqui estou colocando todos os meus projetos do curso de programação que estou fazendo.</p>
 <p>✔ Atualmente não estou trabalhando estou relembrando as coisas da faculdade mas estou pronto pra atuar no front end.</p>
-<p>👀 Atualmente estou estudando httml e css</p>
+<p>👀 Atualmente estou estudando httml, css e javascript</p>
 <div>
 <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=maxwellmoura&show_icons=true&theme=dark">
 <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwellmoura&layout=compact&langs_count=16&theme=dark">
@@ -10,6 +10,7 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Max-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Max-Javascript" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 ##
 <div> 
