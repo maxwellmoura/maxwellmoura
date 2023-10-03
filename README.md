@@ -1,6 +1,6 @@
 <span>Olá Sou Maxwell Christino de Moura</span>
 <p>Aqui estou colocando todos os meus projetos do curso de programação que estou fazendo.</p>
-<p>✔ Atualmente não estou trabalhando estou relembrando as coisas da faculdade mas estou pronto pra atuar no front end.</p>
+<p>✔ Estou pronto pra atuar no front end web.</p>
 <p>👀 Atualmente estou estudando httml, css e javascript</p>
 <div>
 <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=maxwellmoura&show_icons=true&theme=dark">
