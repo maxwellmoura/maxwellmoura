@@ -3,12 +3,12 @@
 <p>Aqui estou colocando todos os meus projetos do curso de programação que estou fazendo.</p>
 <p>✔ Estou pronto pra começar a atuar no Front-End Web.</p>
 <p>👀 Atualmente trabalhando com HTML, CSS, JavaScript e React</p>
-<a href="https://www.notion.so/Documenta-o-HTML-9a8d57a7d7f74de49ea0f8b07bfc0ea3?pvs=4" target="_blank">Notion HTML</a>
-<a href="https://www.notion.so/Documenta-o-CSS-c94d8d481c5f4358adeaa5f15aefd06c?pvs=4" target="_blank">Notion CSS</a>
-<a href="https://www.notion.so/Documenta-o-JavaScript-b20f655795544cbeae83a3e08e505b14?pvs=4" target="_blank">Notion JavaScript</a>
-<a href="https://www.notion.so/Documenta-o-React-9a19b8b771404b9cb61213be17a44c98?pvs=4" target="_blank">Notion React</a>
-<a href="https://www.notion.so/Atalhos-VSCODE-1378ea0c50414780ac0c1ec8d26d54eb?pvs=4" target="_blank">Notion Atalhos VScode</a>
-<a href="https://www.notion.so/Algoritmo-e-L-gica-6f45aae7499248c285176cd5befe47c4?pvs=4" target="_blank">Notion Algoritimos</a>
+<a href="https://www.notion.so/Documenta-o-HTML-9a8d57a7d7f74de49ea0f8b07bfc0ea3?pvs=4" target="_blank">Notion HTML</a><br>
+<a href="https://www.notion.so/Documenta-o-CSS-c94d8d481c5f4358adeaa5f15aefd06c?pvs=4" target="_blank">Notion CSS</a><br>
+<a href="https://www.notion.so/Documenta-o-JavaScript-b20f655795544cbeae83a3e08e505b14?pvs=4" target="_blank">Notion JavaScript</a><br>
+<a href="https://www.notion.so/Documenta-o-React-9a19b8b771404b9cb61213be17a44c98?pvs=4" target="_blank">Notion React</a><br>
+<a href="https://www.notion.so/Atalhos-VSCODE-1378ea0c50414780ac0c1ec8d26d54eb?pvs=4" target="_blank">Notion Atalhos VScode</a><br>
+<a href="https://www.notion.so/Algoritmo-e-L-gica-6f45aae7499248c285176cd5befe47c4?pvs=4" target="_blank">Notion Algoritimos</a><br>
 </div>
 
 <div>
